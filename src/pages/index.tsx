@@ -19,7 +19,10 @@ const Home: React.FC<{}> = () => (
             <br />
             請點擊下方按鈕獲得電子贈書與您結緣。
           </p>
-          <a href="#" className="button hero__cta">
+          <a
+            href="https://entering-web-static.s3.amazonaws.com/%E7%95%B6%E8%97%8F%E5%82%B3%E4%BD%9B%E6%95%99%E8%88%87%E8%A5%BF%E6%96%B9%E7%9B%B8%E9%81%87.pdf"
+            className="button hero__cta"
+          >
             下載免費PDF
           </a>
         </div>
